@@ -113,7 +113,7 @@ Resposta (204 No Content): O usuário foi removido com sucesso.
 
 Para testar e visualizar a API de forma interativa, acesse o Swagger UI através da seguinte URL:
 
-[🔗 Swagger UI - Documentação da API](localhost:8080/swagger-ui.html)
+🔗 Swagger UI - Documentação da API - localhost:8080/swagger-ui.html
 
 🚀 Como Executar o Projeto
 
