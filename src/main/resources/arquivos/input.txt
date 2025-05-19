@@ -1,0 +1,15 @@
+Alice Santos, alice.santos@example.com
+
+Bruno Lima, bruno.lima@example.com
+
+Camila Ferreira, camila.ferreira@example.com
+
+
+Diego Souza, diego.souza@example.com
+
+Elisa Martins, elisa.martins@example.com
+
+
+Fernando Oliveira, fernando.oliveira@example.com
+
+Gabriela Costa, gabriela.costa@example.com
